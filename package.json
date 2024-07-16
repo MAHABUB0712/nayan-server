@@ -1,6 +1,6 @@
 {
-  "name": "mahabub-server",
-  "version": "2.3.8",
+  "name": "nayan-server",
+  "version": "2.3.7",
   "description": "Simple create api(Mohammad Nayan)",
   "main": "src/index.js",
   "scripts": {
